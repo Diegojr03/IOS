@@ -1,0 +1,11 @@
+print("Hola! Vamos a calcular el área de un triángulo")
+base = float(input("Dime la medida de la base \n"))
+altura = float(input("Dime la medida de la altura \n"))
+
+def calcularArea():
+    if base < 0 or altura < 0 :
+        print("Ninguno de los numeros puede ser puede ser 	negativo")
+    else :
+        print("El área del triangulo de tus medidas es", 	((base*altura)/2), "m2")
+    
+calcularArea()
