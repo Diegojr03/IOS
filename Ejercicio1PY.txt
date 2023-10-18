@@ -1,0 +1,9 @@
+nombreUser = input("Hola! ¿Cual es tu nombre? \n")
+
+edadUser = int(input("¿Cuantos años tienes? \n")) 
+
+def calcularDias():
+    
+   print("Hola", nombreUser, "a día 21 de septiembre de 2023 has vivido", (((edadUser-1)*365)+264), "días")
+   
+calcularDias()
