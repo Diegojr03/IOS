@@ -7,6 +7,7 @@ Carpeta IOS
 #### Vamos a poner el codigo aquí
 
 **Ejercicio 1 Swift**
+
 *Codigo en el siguiente párrafo*
 
 - Primero pedimos al usuario que introduzca 5 números
@@ -44,5 +45,15 @@ print("La media de los números introducidos es:", suma/totalNumeros`
 ---
 
 [Documento de google con el codigo del ejercicio] (https://docs.google.com/document/d/1xLD-b44mORDQl7aC-PB8HVasBxmnPwLh3DzhU9jfxq8/edit)
+
 [Imagen para el proyecto de unity] (mute_blanco-transformed.jpeg)
+
+==En el caso de que el codigo esté mal saldría así== 
+
+- [x] En el caso de que el código esté mal también esta lista de tareas servira para buscar una solución
+- [ ] En primer lugar revisar el código y comprobar si algo está mal
+- [ ] Si no encuentras el fallo puedes probar a buscar en internet el nombre del error o prguntarle a tu profesor
+- [ ] Por último tienes que arreglar el error y volver a comprobar si funciona 
+
+
 
