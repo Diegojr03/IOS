@@ -6,8 +6,8 @@ Carpeta IOS
 ### Nos pedían calcular la media de 5 numeros que el usuario pedía por consola
 #### Vamos a poner el codigo aquí
 
-** Ejercicio 1 Swift **
-* Codigo en el siguiente párrafo *
+**Ejercicio 1 Swift**
+*Codigo en el siguiente párrafo*
 
 - Primero pedimos al usuario que introduzca 5 números
 - Los guardamos por consola en 5 diferentes variables 
