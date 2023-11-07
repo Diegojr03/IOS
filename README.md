@@ -48,7 +48,7 @@ print("La media de los números introducidos es:", suma/totalNumeros`
 
 [Imagen para el proyecto de unity] (mute_blanco-transformed.jpeg)
 
-==En el caso de que el codigo esté mal saldría así== 
+En el caso de que el codigo esté mal saldría ==así== de esta forma
 
 - [x] En el caso de que el código esté mal también esta lista de tareas servira para buscar una solución
 - [ ] En primer lugar revisar el código y comprobar si algo está mal
